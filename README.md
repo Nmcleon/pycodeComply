@@ -26,7 +26,13 @@
    cd pycodeComply
    ```
 
-3. Install the required dependencies (e.g., `autopep8`):
+3. Make the script executable using chmod +x:
+
+'''bash
+chmod +x pycodeComply.sh
+'''
+
+4. Install the required dependencies (e.g., `autopep8`):
 
    ```bash
    pip install autopep8
